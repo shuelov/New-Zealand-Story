@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5f4069a926ec0ee47b3cecb915df5225
+timeCreated: 1518511857
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: tvN Enjoystories
+  fontNames:
+  - tvN Enjoystories
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 55e7afc18165e0944820873dce13fae1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

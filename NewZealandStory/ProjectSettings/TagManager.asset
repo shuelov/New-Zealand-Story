@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Point
+  - HiddenDoorBase
+  - MonsterThrows
+  - HiddenDoor
+  - Monster
+  - Score
+  - Arrow
+  - Bomb
+  - SetFree
+  - Wall
+  - Background
+  - Obstacle
+  - mon1turn
+  - Spike
+  - Ground
+  - ceilling
+  - water
+  - out
+  - ArrowPig
+  - Ride
+  - BossDoor
+  - folk
+  - Boss
+  - Flip
+  - Wale
+  - mon2turn
+  - mon3turn
+  - WaterGround
+  - MonFrog
+  - Mons
+  - HelpingOut
+  - monpig
+  - GetOFF
+  - monAuch
+  - ICE
+  - TOP
+  - NEVERCROSS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Monster
+  - Player
+  - 
+  - Ground
+  - Obstacle
+  - Wall
+  - Playerweapon
+  - Item
+  - Ride
+  - Snow
+  - wale
+  - turn
+  - MonsterThrows
+  - WaterGround
+  - MonFrog
+  - MonAuch
+  - spike
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1650312655
+    locked: 0
+  - name: Monster
+    uniqueID: 2386226377
+    locked: 0
+  - name: MonsterWeapon
+    uniqueID: 793612995
+    locked: 0
+  - name: Items
+    uniqueID: 2236094531
+    locked: 0
+  - name: point
+    uniqueID: 2060477827
+    locked: 0
+  - name: weapon
+    uniqueID: 1780367229
+    locked: 0
+  - name: Player
+    uniqueID: 2880423407
+    locked: 0
+  - name: Ride
+    uniqueID: 4090474727
+    locked: 0

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fe5228fdf3ccfd64bb2b813d245a0f85
+timeCreated: 1518511929
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swagger TTF
+  fontNames:
+  - Swagger TTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d6bbca4a0cca8254982123479e6e6bad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
